@@ -10,6 +10,10 @@ public class FirstClass {
         System.out.println("Jurabek's code");
        
 
+        System.out.println("Hello world!");
+        System.out.println("Jurabek's code");
+        System.out.println("Stash practise");
+
 
     }
 
